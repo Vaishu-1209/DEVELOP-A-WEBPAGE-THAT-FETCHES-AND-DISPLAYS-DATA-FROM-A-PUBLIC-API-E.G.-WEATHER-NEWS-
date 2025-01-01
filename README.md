@@ -36,4 +36,7 @@ A method for managing potential issues like invalid user input or API call failu
 
 The space where users interact with the webpage. The search bar for entering the city name, the "Ge…
 
+# OUTPUT OF THE TASK
+
+![OUTPUT](https://github.com/user-attachments/assets/3164d406-2def-4e77-b74b-097d89c4aabd)
 
